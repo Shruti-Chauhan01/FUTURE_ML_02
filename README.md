@@ -18,10 +18,5 @@ The dataset used is the Telco Customer Churn dataset from Kaggle, containing cus
 - Matplotlib & Seaborn for visualization
 - Jupyter Notebook for development
 
-## Usage
-1. Clone the repository
-2. Install required packages (`pip install -r requirements.txt`)
-3. Run the Jupyter Notebook to reproduce analysis and model results
-
 ## Author
 Shruti Chauhan
